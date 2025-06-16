@@ -1,4 +1,5 @@
 user python3 anyway
 
-pip3 install -r module.txt
-python3 shushh.py
+# run
+1. pip3 install -r module.txt
+2. python3 shushh.py
