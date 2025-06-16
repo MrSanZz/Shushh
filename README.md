@@ -1,4 +1,4 @@
-user python3 anyway
+use python3 anyway
 
 # run
 1. pip3 install -r module.txt
